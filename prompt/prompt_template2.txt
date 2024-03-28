@@ -1,0 +1,8 @@
+문장: {transcribed_text}
+
+너가 받은 문장은 동화책에 있는 내용이야
+이 문장을 3~10세 아이가 보기에 적합한 귀여운 그림으로 바꿔줄 수 있도록 stable diffusion에 넣을 입력값을 영어로 작성해줘 token이 7개를 넘으면 안돼
+예시) 
+Prompt: (Subject) Cat, (Action) playing, (Context) on a sunny day, (Environment) in an enchanting forest, (Lighting) under the warm sunlight, (Artist) create the cat in a cute style, (Style) reminiscent of a scene of a children's storybook, (Medium) digital art, (Type) illustration, (Color Scheme) bright and colorful, (Quality) with attention to detail. Negative Prompts: ugly, pixelated, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, text, logo
+
+여기서 (Style) reminiscent of a scene of a children's storybook이랑 (Artist) 에서 cute style은 고정해줘

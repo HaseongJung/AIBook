@@ -1,0 +1,8 @@
+동화책 내용: {story}
+
+동화책 페이지마다 페이지마다 들어갈 그림의 주제, 행동, 상황, 환경을 예시와 같이 영어로 출력해주세요.
+주제에 이름과 같은 고유명사를 넣지 말아주세요.
+
+예시:
+페이지 1: (Subject) Dog, (Action) getting ready, (Context) to go outside, (Environment) in the living room of a house
+페이지 2: (Subject) Dog, (Action) searching a map, (Context) considering where to walk today, (Environment) at home
